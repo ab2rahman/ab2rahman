@@ -49,7 +49,6 @@ Here’s a little about me:
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab2rahman&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ab2rahman&layout=compact&theme=radical)
 
 ---
