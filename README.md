@@ -1,62 +1,101 @@
-## Hi there 👋 Welcome to my GitHub profile!
+<div align="center">
 
-I'm **Muhammad Abdu Ar Rahman**, a passionate developer and freelancer. 🚀  
-Here’s a little about me:
+# Muhammad Abdu Ar Rahman
 
----
+**Mobile & Full-Stack Developer** · 8+ Years Experience
 
-### 🌟 About Me
-- 🔭 I’m currently working on **Warehouse Management System Freelance Project** and **Mining Related Apps**.
-- 👯 I’m looking to collaborate on **any freelance project**.
-- 💬 Ask me about **software development, freelancing, and problem-solving**.
-- 📫 How to reach me: **m.abduarrahman@gmail.com**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-abduarrahman.com-0A0A0A?style=flat-square&logo=google-chrome&logoColor=white)](https://abduarrahman.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abduarrahman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abduarrahman/)
+[![DEV](https://img.shields.io/badge/DEV-@abduarrahman-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/abduarrahman)
+[![YouTube](https://img.shields.io/badge/YouTube-@abduarrahmanscode-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@abduarrahmanscode)
+[![Instagram](https://img.shields.io/badge/Instagram-@abduarrahman-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abduarrahman/)
 
----
-
-### 🛠️ Tech Stack
-
-#### **Languages**
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### **Frameworks & Libraries**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### **Tools & Platforms**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![RESTful APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ab2rahman&layout=compact&theme=radical)
+I build production-grade mobile and web applications across industries — from mining operations and enterprise platforms to agriculture and consumer markets. My primary weapon is **Flutter** for cross-platform mobile, but I'm equally at home building full-stack web apps with React, Next.js, and Node.js.
+
+Currently exploring **AI-powered development workflows** and building creative web experiments with pure CSS animations and pixel art.
 
 ---
 
-### 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/abduarrahman/)
-- 📫 Email: **m.abduarrahman@gmail.com**
+### What I Work With
+
+**Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Infra**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-Thanks for stopping by! 😊 Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[30 Days Web Challenge](https://github.com/ab2rahman/30days-web-challenge)**
+30 days of community-driven web builds — pixel art Zoro splash, ASCII donut math, fighting games, and more. Pure creative coding.
+`next.js` `typescript` `canvas` `framer-motion`
+
+</td>
+<td width="50%">
+
+**[CSSKit](https://github.com/ab2rahman/csskit-ab2rahman)**
+CSS animation library — browse, customize, copy-paste. Pure CSS + HTML pixel art, hover effects, loading animations, and interactive effects.
+`css` `animation` `pixel-art` `ui-components`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Event Photo Platform](https://github.com/ab2rahman/event-photo-platform)**
+Event photo platform with OCR bib number detection. Monorepo with Express API and Next.js dashboard.
+`next.js` `express` `ocr` `tesseract` `monorepo`
+
+</td>
+<td width="50%">
+
+**[Claude Template](https://github.com/ab2rahman/claude-template)**
+Claude Code template with persona system, multi-project structure, and AI-powered development workflows.
+`claude-code` `ai` `productivity` `automation`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Why I Gave My AI Coding Assistant a Personality](https://abduarrahman.com/blog/ai-persona-claude-code-why-how-token-cost/)
+- [Claude Code Architecture — Persona, Agent, Command & Skill](https://abduarrahman.com/blog/claude-code-architecture-persona-agent-command-skill/)
+- [Monorepo Patterns for Full-Stack: What Actually Works](https://abduarrahman.com/blog/fullstack-monorepo-patterns/)
+- [Build an AI Voice Assistant in Flutter](https://abduarrahman.com/blog/building-flutter-ai-voice-assistant/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab2rahman&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ab2rahman&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
