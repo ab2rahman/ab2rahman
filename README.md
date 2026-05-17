@@ -95,7 +95,7 @@ Claude Code template with persona system, multi-project structure, and AI-powere
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab2rahman&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ab2rahman&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ab2rahman&theme=github_dark" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ab2rahman&theme=github_dark" alt="Top Languages" />
 
 </div>
